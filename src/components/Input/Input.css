@@ -1,0 +1,11 @@
+.input {
+    width: 28vw;
+    height: 8vh;
+    margin-bottom: 2vh;
+    font-size: 2em;
+    font-weight: bold;
+    display: flex;
+
+    justify-content: flex-end;
+    align-items: flex-end;
+}
