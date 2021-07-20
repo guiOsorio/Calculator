@@ -2,7 +2,7 @@
 
 In this project, I built a calculator using JS and the ReactJS framework.
 
-### https://gui-calculator.herokuapp.com/
+### See this project at: https://gui-calculator.herokuapp.com/
 
 ## Technologies used / Skills gained:
 - HTML/CSS/JS;
